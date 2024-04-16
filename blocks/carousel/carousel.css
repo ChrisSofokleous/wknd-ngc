@@ -19,6 +19,8 @@ main .carousel picture {
   bottom: 0;
   right: 0;
   box-sizing: border-box;
+  outline: 40px solid var(--color-yellow);
+  outline-offset: -20px;
 }
 
 main .carousel img {
